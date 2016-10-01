@@ -1,0 +1,7 @@
+123456 = 1
+DOG = 4
+FIDO = 8
+JUMP = 4
+LAZY = 4
+OVER = 4
+THE = 4
